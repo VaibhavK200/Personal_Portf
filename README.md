@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> [(https://samyaknagdive.github.io/]
+> [https://vaibhavk200.github.io/Personal_Portf/]
 
 :star: Star me on GitHub — it helps!
 
